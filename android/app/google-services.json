@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431224132842",
+    "project_id": "jpura-leos-app",
+    "storage_bucket": "jpura-leos-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431224132842:android:00145db58f92cc26d43393",
+        "android_client_info": {
+          "package_name": "com.example.jpura_d7_leos_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFKHOyxy07UgKHRLblG8ojHZhRwidde-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
