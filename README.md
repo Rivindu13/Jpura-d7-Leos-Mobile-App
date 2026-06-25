@@ -63,9 +63,11 @@ lib/
 
 ## 📸 Screenshots
 
-<img width="500" height="700" alt="WhatsApp Image 2026-06-25 at 21 09 53" src="https://github.com/user-attachments/assets/4160e0ff-a5ca-4428-930a-281bca2f986a" />
-<img width="816" height="1600" alt="WhatsApp Image 2026-06-25 at 21 09 39" src="https://github.com/user-attachments/assets/e5e6cc49-b051-42d4-b86f-2f6947bcad22" />
-<img width="1080" height="2120" alt="WhatsApp Image 2026-06-25 at 21 09 19" src="https://github.com/user-attachments/assets/51554422-b82d-4f44-a8dd-829edc080496" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4160e0ff-a5ca-4428-930a-281bca2f986a" height="420" />
+  <img src="https://github.com/user-attachments/assets/e5e6cc49-b051-42d4-b86f-2f6947bcad22" height="420" />
+  <img src="https://github.com/user-attachments/assets/51554422-b82d-4f44-a8dd-829edc080496" height="420" />
+</p>
 
 ## 🌐 Club Links
 
