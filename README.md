@@ -73,7 +73,7 @@ lib/
 
 ## 🌐 Club Links
 
-Website: https://jpurad7leos.org.lk/
-Facebook: https://www.facebook.com/USJC2
-LinkedIn: https://www.linkedin.com/company/leo-club-of-district-306-d7-university-of-sri-jayewardenepura/
-WhatsApp Channel: https://whatsapp.com/channel/0029VbBl2LbBA1f0ErBjKg1T
+- Website: https://jpurad7leos.org.lk/
+- Facebook: https://www.facebook.com/USJC2
+- LinkedIn: https://www.linkedin.com/company/leo-club-of-district-306-d7-university-of-sri-jayewardenepura/
+- WhatsApp Channel: https://whatsapp.com/channel/0029VbBl2LbBA1f0ErBjKg1T
