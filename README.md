@@ -64,9 +64,11 @@ lib/
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4160e0ff-a5ca-4428-930a-281bca2f986a" height="420" />
-  <img src="https://github.com/user-attachments/assets/e5e6cc49-b051-42d4-b86f-2f6947bcad22" height="420" />
-  <img src="https://github.com/user-attachments/assets/51554422-b82d-4f44-a8dd-829edc080496" height="420" />
+  <img src="https://github.com/user-attachments/assets/4160e0ff-a5ca-4428-930a-281bca2f986a" height="380" />
+  <img src="https://github.com/user-attachments/assets/e5e6cc49-b051-42d4-b86f-2f6947bcad22" height="380" />
+  <img src="https://github.com/user-attachments/assets/51554422-b82d-4f44-a8dd-829edc080496" height="380" />
+  <img src="https://github.com/user-attachments/assets/28599de0-92d0-4605-b5e7-bc8014b75556" height="380" />
+  <img src="https://github.com/user-attachments/assets/8c32fbd9-3d7e-4015-bbfe-3b8ac007aced" height="380" />
 </p>
 
 ## 🌐 Club Links
