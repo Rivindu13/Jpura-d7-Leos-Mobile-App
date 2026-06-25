@@ -1,17 +1,75 @@
-# jpura_d7_leos_app
+# J’Pura D7 Leos Mobile App
 
-A new Flutter project.
+A Flutter mobile application for the **Leo Club of District 306 D7 – University of Sri Jayewardenepura**.  
+The app is designed to showcase the club’s identity, board members, projects, and contact information in a clean mobile experience for **Leos and Lions worldwide**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Home Screen**
+  - Club branding and welcome section
+  - Slideshow / image carousel
+  - Quick navigation cards
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- **About Us**
+  - Club introduction
+  - Mission / vision / values
+  - Club identity and purpose
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Board**
+  - Display board members
+  - Powered by **Firebase Firestore + Firebase Storage** for dynamic updates
+
+- **Projects**
+  - Showcase completed / ongoing projects
+  - Can be managed dynamically with **Firebase**
+
+- **Contact**
+  - Contact details
+  - Social media / website links
+  - WhatsApp channel button
+
+---
+
+## 📱 Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Firebase**
+  - Firebase Core
+  - Cloud Firestore
+  - Firebase Storage
+- **url_launcher**
+- **carousel_slider**
+
+---
+
+## 📂 Project Structure
+
+```bash
+lib/
+├── constants/
+│   └── colors.dart
+├── screens/
+│   ├── home_screen.dart
+│   ├── about_screen.dart
+│   ├── board_screen.dart
+│   ├── projects_screen.dart
+│   ├── contact_screen.dart
+│   └── more_screen.dart
+└── main.dart
+```
+
+## 📸 Screenshots
+
+<img width="1080" height="2138" alt="WhatsApp Image 2026-06-25 at 21 09 53" src="https://github.com/user-attachments/assets/4160e0ff-a5ca-4428-930a-281bca2f986a" />
+<img width="816" height="1600" alt="WhatsApp Image 2026-06-25 at 21 09 39" src="https://github.com/user-attachments/assets/e5e6cc49-b051-42d4-b86f-2f6947bcad22" />
+<img width="1080" height="2120" alt="WhatsApp Image 2026-06-25 at 21 09 19" src="https://github.com/user-attachments/assets/51554422-b82d-4f44-a8dd-829edc080496" />
+
+## 🌐 Club Links
+
+Website: https://jpurad7leos.org.lk/
+Facebook: https://www.facebook.com/USJC2
+LinkedIn: https://www.linkedin.com/company/leo-club-of-district-306-d7-university-of-sri-jayewardenepura/
+WhatsApp Channel: https://whatsapp.com/channel/0029VbBl2LbBA1f0ErBjKg1T
